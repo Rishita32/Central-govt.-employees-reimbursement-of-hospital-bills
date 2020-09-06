@@ -1,0 +1,52 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MyApplication">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1gUsnQq2yyuCrgXLxVU4FqGRMBA">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-193.6911.18.40.6626763" />
+              <option name="buildTimestamp" value="1593052962513" />
+              <frame x="85" y="25" width="1750" height="980" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1599390675719" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MyApplication2">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1h8RLJYk4lrHLkLNiqy2d0GdRJC">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-193.6911.18.40.6626763" />
+              <option name="buildTimestamp" value="1593052949073" />
+              <frame x="865" y="25" width="970" height="980" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1599396494228" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/CheerApp">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1h8d8ZppRhOFU521nUbNK34zxD8">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-193.6911.18.40.6626763" />
+              <option name="buildTimestamp" value="1593052949073" />
+              <frame x="865" y="25" width="970" height="980" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1599396505562" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/AndroidStudioProjects/CheerApp" />
+        <option value="$USER_HOME$/AndroidStudioProjects/MyApplication2" />
+        <option value="$USER_HOME$/AndroidStudioProjects/MyApplication" />
+      </list>
+    </option>
+  </component>
+</application>
